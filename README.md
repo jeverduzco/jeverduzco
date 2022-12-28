@@ -1,26 +1,26 @@
-## Who am I?
+## Who am I 😏
 
- Hi, I'm Jesus! Full Stack JavaScript Developer, I code today better than yesterday and tomorrow better than today. 
+Hi, I'm Jesús! A Full Stack Developer (JS, TS), DevOps and Mexican Entrepreneur who loves Latin America.
 
-## What technologies do I love to work with?
+## What do I work with? 🤓
 
- JavaScript, Git, Node.js, Vue.js, React.js, Microsoft Azure, Docker, Stripe and GitHub. 
- 
-## What motivates me to create things?
+JavaScript, TypeScript, Node.js, Deno, Microsoft Azure, Google Cloud, Vue.js, Nuxt.js, Supabase, GitHub, Docker, Kubernetes, Stripe and other things. 
 
-I strongly believe that if technology doesn't make people's lives better, then there is no point in creating it. 
- 
-## How can I help you? -
+## What motivates me? 🧐
 
-Web Application development based on React, Vue.js or Svelte, also, Backend development based on Node.js. 
+I believe that collaboration is the basis of progress, and since I'm a total Geek, my way of doing that is by collaborating in open source projects and creating Software as a Service that brings value to our region.
 
-DevOps process design with the best tools, Azure DevOps, GitHub, GitLab, Travis CI, Circle CI, among others. 
+## What am I involved in?🤔
 
-Design of architectures with Microsoft Azure, Google Cloud and AWS to make your projects scalable, cheap and reliable. 
+I love technology, so I've created an Open Source Software, Software as a Service and DevOps lab, where I entertain myself creating cool stuff focused on Latin America.
 
-Training, talks and mentoring to help your team with their goals on Web Development, Cloud or DevOps projects.
+## Do I make content? 🤩
+
+Yes... on my LinkedIn you can find live events, voice events, video posts and articles. If you really like technology, I wait for you on my Twitch channel @soy_jeshu, there I do Streams with a tech theme and if you miss them they stay on my YouTube @soy_jeshu.
 
 Follow me:
 - [Linkedin](https://www.linkedin.com/in/soy-jeshu)
 - [Twitter](https://twitter.com/soy_jeshu)
 - [Twitch](https://www.twitch.tv/soy_jeshu)
+- [YouTube](https://www.youtube.com/channel/UCaJ8aINH0YeKehhcYIGcTZA)
+- [Jeshu Labs](https://www.jeshulabs.com/)
