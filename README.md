@@ -12,7 +12,7 @@ I believe that collaboration is the basis of progress, and since I'm a total Gee
 
 ## What am I involved in?🤔
 
-I love technology, so I've created an Open Source Software, Software as a Service and DevOps lab, where I entertain myself creating cool stuff focused on Latin America.
+I love technology, so I have created a minimalist Open Source Software and Software as a Service lab, where I have fun creating cool stuff focused on Latin America.
 
 ## Do I make content? 🤩
 
