@@ -18,7 +18,7 @@ I love technology, so I have created a minimalist Open Source Software and Softw
 
 Yes... on my LinkedIn you can find live events, voice events, video posts and articles. 
 
-If you like to learn about new applications, I wait for you on my Twitch channel @soy_jeshu, there I do live shows about Open Source Software, Web Development and Entrepreneurship, if you miss them they stay on my YouTube @soy_jeshu.
+If you like to learn about new things, I wait for you on my Twitch channel @soy_jeshu, there I do live shows about Open Source Software, Web Development and Entrepreneurship.
 
 Follow me:
 - [Linkedin](https://www.linkedin.com/in/soy-jeshu)
