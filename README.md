@@ -1,29 +1,36 @@
-More than 8 years of experience leading, creating and managing Web Development projects.
+More than 8 years of experience leading, creating and managing Software Development projects.
 
-Started my own Software as a Service business, collaborate with Open Source projects, and help other entrepreneurs with consulting and content.
+Entrepreneur with my own Software as a Service, collaborate with Open-Source projects and solve challenges of other companies with what I know.
 
-Languages - HTML and CSS don't count.
+Languages
+- HTML
+- CSS
 - JavaScript 
 - TypeScript
+- Swift
+- Python
 
-Frameworks - The ones I love.
-- Nuxt.js
+Frameworks
+- Nuxt
+- Vue.js
 - Next.js
+- Astro
 
-DevOps - From the IDE to the users.
+DevOps
 - Microsoft Azure
 - Google Cloud
 - AWS
+- Docker
 
-Tools - What do I use to create?
+Others
 - GitHub
 - VS Code
-- Stripe
+- Xcode
+- Firebase
+- Cloudflare
+- Node.js
 
-Services - What I can do for you.
-- DevOps: Infrastructure and DevOps consulting for Web Apps.
-- Web Consulting: Consulting in Full Stack development and architecture for Web Apps.
+Let's talk, I'm cool.
 
 Follow me:
 - [Linkedin](https://www.linkedin.com/in/soy-jeshu)
-- [Twitch](https://www.twitch.tv/soy_jeshu)
