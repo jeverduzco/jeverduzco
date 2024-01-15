@@ -1,4 +1,4 @@
-With over eight years of experience, I've led, built, and managed various software development projects. As an entrepreneur, I've founded a software-as-a-service (SaaS) company and actively contribute to open source projects, using my expertise to solve challenges for other companies. 
+With over nine years of experience, I've led, built, and managed various software development projects. As an entrepreneur, I've founded a software-as-a-service (SaaS) company and actively contribute to open source projects, using my expertise to solve challenges for other companies. 
 
 My skills span multiple programming languages, including HTML, CSS, JavaScript, TypeScript, Swift, and Python, allowing me to tackle projects using the most effective tools. I'm adept at using various frameworks such as Nuxt, Vue.js, Next.js, and Astro to build dynamic applications. 
 
