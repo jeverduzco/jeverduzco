@@ -1,1 +1,1 @@
-Boasting over a decade of experience in leading and executing Web Application projects, I specialize in guiding Software as a Service (SaaS) products, actively contributing to the Open Source community, and providing specialized consulting to resolve technological challenges.
+With over 10 years of experience in managing and executing web application projects, I specialize in leading SaaS companies and teams, while also contributing actively to the Open Source community.
