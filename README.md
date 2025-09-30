@@ -1,1 +1,1 @@
-With over 10 years of experience in managing and executing web application projects, I specialize in leading SaaS companies and teams, while also contributing actively to the Open Source community.
+Web app wizard with 10+ years wrangling projects from idea to launch. Right now, I'm all about crafting AI tools that supercharge Latin American companies and teams at Kapaxia—keeping things nimble and impactful while geeking out on open-source collabs.
